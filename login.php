@@ -1,7 +1,7 @@
 <?php 
 $uname = $_POST['username'];
 $pass = $_POST['password'];
-$servername = "insta.chn3jdqduiw6.us-east-2.rds.amazonaws.com";
+$servername = "mongodb+srv://admin:root@cluster0.igfsl.mongodb.net/affu";
 $username = "afraz";
 $password = "afrazsheikh";
 $dbname = "instaDB";
