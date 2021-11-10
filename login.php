@@ -4,7 +4,7 @@ $pass = $_POST['password'];
 $servername = "mongodb+srv://admin:root@cluster0.igfsl.mongodb.net/affu";
 $username = "afraz";
 $password = "afrazsheikh";
-$dbname = "instaDB";
+$dbname = "affu";
 // create connection
 $conn = mysqli_connect ($servername , $username , $password, $dbname);
 //check connection
